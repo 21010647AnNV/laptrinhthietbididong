@@ -1,6 +1,10 @@
-# ql
+# Notices
 
-A new Flutter project.
+- Todo app
+
+# Devops
+
+- Nguyen Van An, Bui Viet Quang, Bui Dinh Loc
 
 ## Getting Started
 
